@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DC783C7720A6E38100B61F9B /* CustomRefreshView.xib in Resources */ = {isa = PBXBuildFile; fileRef = DC783C7620A6E38100B61F9B /* CustomRefreshView.xib */; };
 		DC8C3E0920A6C409008B20DD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC8C3E0820A6C409008B20DD /* AppDelegate.swift */; };
 		DC8C3E0B20A6C409008B20DD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC8C3E0A20A6C409008B20DD /* ViewController.swift */; };
 		DC8C3E0E20A6C409008B20DD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DC8C3E0C20A6C409008B20DD /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		DC783C7620A6E38100B61F9B /* CustomRefreshView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CustomRefreshView.xib; sourceTree = "<group>"; };
 		DC8C3E0520A6C409008B20DD /* Custom-RefreshControl-swift-ios.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Custom-RefreshControl-swift-ios.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		DC8C3E0820A6C409008B20DD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DC8C3E0A20A6C409008B20DD /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 				DC8C3E0820A6C409008B20DD /* AppDelegate.swift */,
 				DC8C3E0A20A6C409008B20DD /* ViewController.swift */,
 				DC8C3E0C20A6C409008B20DD /* Main.storyboard */,
+				DC783C7620A6E38100B61F9B /* CustomRefreshView.xib */,
 				DC8C3E0F20A6C409008B20DD /* Assets.xcassets */,
 				DC8C3E1120A6C409008B20DD /* LaunchScreen.storyboard */,
 				DC8C3E1420A6C409008B20DD /* Info.plist */,
@@ -126,6 +129,7 @@
 				DC8C3E1320A6C409008B20DD /* LaunchScreen.storyboard in Resources */,
 				DC8C3E1020A6C409008B20DD /* Assets.xcassets in Resources */,
 				DC8C3E0E20A6C409008B20DD /* Main.storyboard in Resources */,
+				DC783C7720A6E38100B61F9B /* CustomRefreshView.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
