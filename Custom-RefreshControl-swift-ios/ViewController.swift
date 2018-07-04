@@ -52,7 +52,7 @@ class ViewController: UIViewController {
                     titleLable.text = "Refreshing contents"
                 }
         }
-        self.perform(#selector(finishedRefreshing), with: nil, afterDelay: 3.0)
+        self.perform(#selector(finishedRefreshing), with: nil, afterDelay: 23.0)
     }
     
     @objc func finishedRefreshing() {
